@@ -1,8 +1,8 @@
 # Mini-Project
 ## AIM:
-       To predict and analyse the second hand car.
+To predict and analyse the second hand car.
 ## MOTIVE:
-       The prices of new cars in the industry is fixed by the manufacturer with some additional costs incurred by the Government in the form of taxes. 
+The prices of new cars in the industry is fixed by the manufacturer with some additional costs incurred by the Government in the form of taxes. 
 So, customers buying a new car can be assured of the money they invest to be worthy.
 But due to the increased price of new cars and the incapability of customers to buy new cars due to the lack of funds, used cars sales are on a global increase . 
 There is a need for a used car price prediction system to effectively determine the worthiness of the car using a variety of features. 
@@ -68,7 +68,7 @@ sns.violinplot(x="torque",y="selling_price",data=d)
 ![image](https://user-images.githubusercontent.com/94165380/204608895-06105653-c5cb-4e97-be39-577d898fa246.png)
 
 ## RESULT:
-         Thus we have tried to predict and analyse second hand cars.
+Thus we have tried to predict and analyse second hand cars.
 
 
 
